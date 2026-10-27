@@ -1,0 +1,4 @@
+Locus,Allele,Sequence,Count,Frequency
+Locus_1,1,TTTTT,7,0.5
+Locus_1,2,TGTTT,4,0.28571
+Locus_1,3,TTTTA,3,0.21429
