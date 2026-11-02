@@ -9,9 +9,9 @@ This python script acts as a pipeline that takes diploid sequence data and calcu
 
 
 Contents of this repository 
-- README-allele-pipeline.md
+- README.md
 	- README file
-- license_allele-pipeline.md 
+- LICENSE 
 	- contains information pertaining to MIT license
 - allele_frequency_pipeline.python
 	- python code, annotated with instructions
