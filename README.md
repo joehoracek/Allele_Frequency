@@ -25,7 +25,6 @@ Contents of this repository
 	- example-snps_per_locus.xlsx 
 		- example output
  
-Note about ExampleData: the "dummy data" provided for users to test the python script contains only one locus, but the program was designed to be used with multiple loci.
-	- In other words, the main purpose of the dummy data in ExampleData is to provide users with an example of the correct way to set up input files
+Note about ExampleData: the "dummy data" provided for users to test the python script contains only one locus, but the program was designed to be used with multiple loci.  In other words, the main purpose of the dummy data in ExampleData is to provide users with an example of the correct way to set up input files
 
 The scripts in this repository are provided to anyone for research and educational use.  See license_allele-pipeline.md for the MIT license.
